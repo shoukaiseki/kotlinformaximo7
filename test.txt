@@ -1,3 +1,4 @@
 asus
 linuxas
 fedora 
+can del
